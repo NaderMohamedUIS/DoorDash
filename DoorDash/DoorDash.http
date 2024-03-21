@@ -1,0 +1,6 @@
+@DoorDash_HostAddress = http://localhost:5095
+
+GET {{DoorDash_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
